@@ -10,3 +10,4 @@ Here are a few things about me
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... ngonidzashedelight@gmail.com
 - ⚡ Fun fact: ... Attack on titan is the best anime on this planet.
+- 👨‍💻 Blog: https://dev.to/ngonidzashe
