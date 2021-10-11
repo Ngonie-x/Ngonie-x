@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nnzenze" target="blank"><img src="https://img.shields.io/twitter/follow/nnzenze?logo=twitter&style=for-the-badge" alt="nnzenze" /></a> </p>
 
-- 🌱 I’m currently learning **Django, kivyMD and React**
+- 🌱 I’m currently learning **React and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ngonie-x](https://github.com/Ngonie-x)
 
