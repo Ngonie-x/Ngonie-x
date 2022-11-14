@@ -43,3 +43,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngonie-x&" alt="ngonie-x" />
 </p>
 
+## 📑Dev Card
+
+<a href="https://app.daily.dev/ngonidzashe"><img src="https://api.daily.dev/devcards/70026e54cb534e0b92076cb3923ec619.png?r=gtf" width="400" alt="Ngonidzashe Nzenze's Dev Card"/></a>
+
