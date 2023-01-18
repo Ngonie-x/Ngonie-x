@@ -39,7 +39,6 @@
 ## 🔥 Streak stats
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngonie-x&show_icons=true&locale=en" alt="ngonie-x" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngonie-x&" alt="ngonie-x" />
 </p>
 
