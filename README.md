@@ -3,7 +3,7 @@
 **`Software Craftsman`**
 ## Software developer with a passion for all things python
 
-- 🌱 I’m currently learning **Django, kivyMD and React**
+- 🌱 I’m currently learning **Fast API and Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ngonie-x](https://github.com/Ngonie-x)
 
