@@ -46,9 +46,8 @@
 
 ## 📊 Stats
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngonie-x&" alt="ngonie-x" />
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngonie-x&theme=darcula)
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngonie-x&theme=darcula)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngonie-x&theme=darcula)
 
-
+---
