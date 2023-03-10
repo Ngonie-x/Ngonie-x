@@ -48,5 +48,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngonie-x&" alt="ngonie-x" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngonie-x)](https://github.com/ngonie-x/github-readme-stats)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngonie-x&theme=blue_green)
 </div>
