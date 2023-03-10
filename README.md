@@ -45,9 +45,7 @@
 <br />
 
 ## 📊 Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngonie-x&theme=darcula)
-<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngonie-x&theme=darcula)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngonie-x&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngonie-x&theme=darcula)
 ---
