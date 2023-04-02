@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **ngonidzashedelight@gmail.com**
 
-- ⚡ Fun fact **Attack on titan is the best anime on this planet.**
+- ⚡ Fun fact **One Piece is the best anime on this planet.**👀
+
+![OnePieceGIF](https://user-images.githubusercontent.com/28601809/229360714-a26a197f-2254-4225-8696-9d45cbe25bf2.gif)
 
 ### Connect with me
 <p align="left">
