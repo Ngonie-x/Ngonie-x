@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **One Piece is the best anime on this planet.**👀
 
-![OnePieceGIF](https://user-images.githubusercontent.com/28601809/229360714-a26a197f-2254-4225-8696-9d45cbe25bf2.gif)
-
 ### Connect with me
 <p align="left">
 <a href="https://dev.to/ngonidzashe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ngonidzashe" height="30" width="40" /></a>
